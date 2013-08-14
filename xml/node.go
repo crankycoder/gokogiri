@@ -8,8 +8,8 @@ import "time"
 
 import (
 	"errors"
-	. "gokogiri/util"
-	"gokogiri/xpath"
+	. "github.com/crankycoder/gokogiri/util"
+	"github.com/crankycoder/gokogiri/xpath"
 	"strconv"
 	"unsafe"
 )

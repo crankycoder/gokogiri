@@ -4,7 +4,7 @@ package xml
 import "C"
 import (
 	"errors"
-	. "gokogiri/util"
+	. "github.com/crankycoder/gokogiri/util"
 	"unsafe"
 )
 
